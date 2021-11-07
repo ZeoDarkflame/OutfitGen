@@ -1,6 +1,6 @@
 # Outfit Generator
 
-Submission to Myntra Hackerramp: Campus Edition 2021 (*Theme: Enchance*)
+Submission to Myntra Hackerramp: Campus Edition 2021 (*Theme: Enhance*)
 
 ![App GIF](resources/app.gif)
 
